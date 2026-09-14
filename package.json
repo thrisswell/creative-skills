@@ -1,0 +1,35 @@
+{
+  "name": "creative-skills",
+  "version": "1.0.0",
+  "description": "Curated creative writing, content, and ideation skills for Claude and AI coding agents",
+  "main": "index.js",
+  "bin": {
+    "creative-skills": "bin/cli.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thrisswell/creative-skills.git"
+  },
+  "bugs": {
+    "url": "https://github.com/thrisswell/creative-skills/issues"
+  },
+  "homepage": "https://github.com/thrisswell/creative-skills#readme",
+  "keywords": [
+    "claude",
+    "ai-skills",
+    "agentic-coding",
+    "claude-code",
+    "antigravity",
+    "creative-skills",
+    "creative-writing",
+    "ideation",
+    "developer-tools"
+  ],
+  "files": [
+    "bin/",
+    "license.txt"
+  ],
+  "author": "Sandeep Tripathy",
+  "license": "MIT",
+  "preferGlobal": true
+}
